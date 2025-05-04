@@ -1,0 +1,23 @@
+{
+    "mogh": {
+        "username": "mogh",
+        "password": "1234",
+        "points": -10,
+        "redeemed": [],
+        "last_login": "2025-05-04"
+    },
+    "hh": {
+        "username": "hh",
+        "password": "123",
+        "points": 0,
+        "redeemed": [],
+        "last_login": null
+    },
+    "atif": {
+        "username": "atif",
+        "password": "12345",
+        "points": -5,
+        "redeemed": [],
+        "last_login": "2025-05-04"
+    }
+}
